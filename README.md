@@ -4,7 +4,7 @@ Overview about App Inventor.
 
 ## About
 
-This is a few project about App Inventor - Drag and Drop Coding. It helps everyone easily access and stimulate their thinking.
+This is a few project about App Inventor - Drag and Drop Coding. It helps everyone easily access and stimulate their thinking, especially for kids.
 
 Resources:
 
